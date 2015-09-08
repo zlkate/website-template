@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Sydney-GA-FEWD-Yang/website-template/issues"
   },
-  "homepage": "https://github.com/Sydney-GA-FEWD-Yang/website-template"
+  "homepage": "https://github.com/Sydney-GA-FEWD-Yang/website-template",
+  "dependencies": {
+    "http-server": "^0.8.0"
+  }
 }
