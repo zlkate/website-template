@@ -1,0 +1,26 @@
+{
+  "name": "website-template",
+  "version": "1.0.0",
+  "description": "A template for hosting on heroku and or other cloud services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/http-server/bin/http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sydney-GA-FEWD-Yang/website-template.git"
+  },
+  "keywords": [
+    "heroku",
+    "template",
+    "website",
+    "frontend"
+  ],
+  "author": "Yang Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sydney-GA-FEWD-Yang/website-template/issues"
+  },
+  "homepage": "https://github.com/Sydney-GA-FEWD-Yang/website-template"
+}
