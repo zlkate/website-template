@@ -4,8 +4,7 @@
   "description": "A template for hosting on heroku and or other cloud services",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./node_modules/http-server/bin/http-server ./"
+    "start": "node ./node_modules/forever/bin/forever ./server/index.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +23,8 @@
   },
   "homepage": "https://github.com/Sydney-GA-FEWD-Yang/website-template",
   "dependencies": {
-    "http-server": "^0.8.0"
+    "express": "^4.13.3",
+    "forever": "^0.15.1",
+    "heroku-ping-alive": "0.0.0"
   }
 }
