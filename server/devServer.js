@@ -11,4 +11,4 @@ browserSync.init({
     ui: false
 });
 
-watch('./**/*', browserSync.reload);
+watch('./public/**/*', browserSync.reload);
