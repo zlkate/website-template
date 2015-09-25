@@ -2,7 +2,7 @@
 A template for creating simple sites, specifically designed to be hosted on Heroku's free servers
 
 ##Fork this repository
-![alt tag](https://raw.github.com/yangli1990/website-template/guide/how-to-fork.jpg)
+![alt tag](https://s3-ap-southeast-2.amazonaws.com/website-template-git/how-to-fork.jpg)
 
 
 ##File folder
