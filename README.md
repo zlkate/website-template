@@ -26,12 +26,15 @@ Automatic deploy means when you make changes and upload to github, it will autom
 
 ###Congratulations, you now have a website running!
 
-##File folder
-Put anything in the /public folder and it will be served
+##Making changes
+Please only make changes inside the public/ folder. You can do anything in here, create, edit and delete files/folders
 
 ##Run server on dev environment
+On your local computer, in this folder, type this into your command line.
 ```
 npm run dev
 ```
 
-##Hosting it on Heroku
+This will start up a dev server on http://localhost:8000 with a change detect automatic reload
+
+
