@@ -9,20 +9,20 @@ A template for creating simple sites, specifically designed to be hosted on Hero
 <a href="https://signup.heroku.com/" target="_blank">Heroku Signup</a>
 
 ###Login and Create an app
-![create heroku app](https://s3-ap-southeast-2.amazonaws.com/website-template-git/create-new-heroku-app.jpg)
+<img src="https://s3-ap-southeast-2.amazonaws.com/website-template-git/create-new-heroku-app.jpg" alt="create heroku app" border="2"/>
 
 ###Choose a name, Select United States as the region
-![setup app](https://s3-ap-southeast-2.amazonaws.com/website-template-git/setup-app.jpg)
+<img src="https://s3-ap-southeast-2.amazonaws.com/website-template-git/setup-app.jpg" alt="create heroku app" border="2"/>
 
 ###Select Deploy -> Github -> Login to github
-![connect to github](https://s3-ap-southeast-2.amazonaws.com/website-template-git/connect-to-github.jpg)
+<img src="https://s3-ap-southeast-2.amazonaws.com/website-template-git/connect-to-github.jpg" alt="create heroku app" border="2"/>
 
 ###Search and select your website-template repository
-![search for repo](https://s3-ap-southeast-2.amazonaws.com/website-template-git/search-and-connect.jpg)
+<img src="https://s3-ap-southeast-2.amazonaws.com/website-template-git/search-and-connect.jpg" alt="create heroku app" border="2"/>
 
 ###Automatic Deploy and Deploy Branch
 Automatic deploy means when you make changes and upload to github, it will automatically deploy the website
-![deploy](https://s3-ap-southeast-2.amazonaws.com/website-template-git/deploy.jpg)
+<img src="https://s3-ap-southeast-2.amazonaws.com/website-template-git/deploy.jpg" alt="create heroku app" border="2"/>
 
 ###Congratulations, you now have a website running!
 
